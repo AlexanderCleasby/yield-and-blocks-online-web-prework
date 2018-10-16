@@ -8,7 +8,7 @@ def hello_t(names)
   else
     puts "Hey! No block was given!"
   names
-  
+
 end
 
 # call your method here!
