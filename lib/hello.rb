@@ -7,6 +7,7 @@ def hello_t(names)
   end
   else
     puts "Hey! No block was given!"
+  end
   names
 
 end
